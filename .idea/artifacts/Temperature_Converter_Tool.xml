@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact name="Temperature Converter Tool">
+    <output-path>$PROJECT_DIR$/out/artifacts/Temperature_Converter_Tool</output-path>
+    <root id="root">
+      <element id="module-output" name="temperatureConvertor" />
+      <element id="archive" name="Temperature_Converter_tool.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
